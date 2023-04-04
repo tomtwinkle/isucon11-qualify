@@ -4,5 +4,5 @@ go 1.16
 
 require (
 	github.com/anthonynsimon/bild v0.13.0
-	github.com/docker/docker v20.10.8+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 )
